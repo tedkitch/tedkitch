@@ -6,7 +6,7 @@ theme = "dark"
 primary_color = "#d81b60"
 text_align = "center"
 gtag_id = ""
-base_url = "https://tedkitch.github.io"
+base_url = "https://tedkitch.github.io/tedkitch"
 
 [[sections]]
 title = "Hobbies"
@@ -16,7 +16,7 @@ item_style = "outline"
 [[sections.items]]
 title = "Computers"
 description = "I've been using computers since the Commodore Vic 20"
-url = "hhttps://en.wikipedia.org/wiki/VIC-20"
+url = "https://en.wikipedia.org/wiki/VIC-20"
 [[sections.items]]
 title = "Guitars"
 description = "I've been playing since I was 13"
