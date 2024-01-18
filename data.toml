@@ -1,45 +1,27 @@
-name = "Jake Gyllenhaal"
-description = "Accomplished actor, captivating with versatility and charisma."
-keywords = "Jake Gyllenhaal, actor, filmography, awards, versatile performances, Hollywood"
-image = "jake.webp"
+name = "Ted Kitch"
+description = "Husband, father and occasional knucklehead"
+keywords = "Ted Kitch, knucklehead"
+image = "MyProfilePic.png"
 theme = "dark"
 primary_color = "#d81b60"
 text_align = "center"
 gtag_id = "G-33WB8LVHR6"
-base_url = "https://thevahidal.github.io/jake"
+base_url = "https://tedkitch.github.io"
 
 [[sections]]
-title = "Movies"
-description = "Here are some of my movies"
+title = "Hobbies"
+description = "Some of my hobbies"
 direction = "column"
 item_style = "outline"
 [[sections.items]]
-title = "Nightcrawler"
-description = "A mesmerizing thriller delving into the dark world of crime journalism"
-url = "https://www.imdb.com/title/tt2872718/"
+title = "Computers"
+description = "I've been using computers since the Commodore Vic 20"
+url = "hhttps://en.wikipedia.org/wiki/VIC-20"
 [[sections.items]]
-title = "Brokeback Mountain"
-description = "A groundbreaking romantic drama challenging societal expectations"
-url = "https://www.imdb.com/title/tt0388795/"
+title = "Guitars"
+description = "I've been playing since I was 13"
+url = "https://en.wikipedia.org/wiki/Kramer_Guitars"
 [[sections.items]]
-title = "Prisoners"
-description = "A gripping thriller entangling a detective in a web of secrets during a kidnapping investigation"
-url = "https://www.imdb.com/title/tt1392214/"
-
-[[sections]]
-title = "Links"
-description = "Look for me on these websites"
-direction = "row"
-item_style = "filled"
-[[sections.items]]
-title = "Instagram"
-url = "https://www.instagram.com/jakegyllenhaal"
-[[sections.items]]
-title = "IMDb"
-url = "https://www.imdb.com/name/nm0350453/"
-[[sections.items]]
-title = "Wikipedia"
-url = "https://en.wikipedia.org/wiki/Jake_Gyllenhaal"
-[[sections.items]]
-title = "Rotten Tomatoes"
-url = "https://www.rottentomatoes.com/celebrity/jake_gyllenhaal"
+title = "Church"
+description = "I've been a member of The Church of Jesus Christ of Latter-Day Saints since 1989"
+url = "https://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
